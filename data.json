@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "abanoub",
+        "age": 22,
+        "committee": "Technical"
+    },
+    {
+        "id": 2,
+        "name": "ahmed ",
+        "age": 18,
+        "committee": "Technical"
+    },
+    {
+        "id": 3,
+        "name": "mazen",
+        "age": 20,
+        "committee": "Ea"
+    },
+    {
+        "id": 4,
+        "name": "zeyad",
+        "age": 21,
+        "committee": "Training"
+    },
+    {
+        "id": 5,
+        "name": "mohamed",
+        "age": 15,
+        "committee": "events"
+    }
+]
